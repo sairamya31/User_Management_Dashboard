@@ -1,6 +1,6 @@
 # Project Name
 
-This project is a full stack application with a React frontend and a JSON-Server backend.
+This project is a full stack application with a React frontend and a JSON-Server backend
 
 ## Getting Started
 
